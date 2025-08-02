@@ -1,0 +1,52 @@
+[
+  {
+    "question": "関数 $f(x,y,z) = x^2 + y^2 + z^2$ の、条件 $x+y+z=1$ および $x^2+y^2-z^2=0$ の下での極値を、ラグランジュの未定乗数法を用いて求めよ。",
+    "category": "微積分",
+    "difficulty": "medium",
+    "thinking_process": "解析エラー",
+    "solution": "解析エラー",
+    "final_answer": "解析エラー",
+    "key_concepts": [],
+    "id": 1
+  },
+  {
+    "question": "行列 $A = \\begin{pmatrix} 2 & 1 & 1 \\\\ 1 & 2 & 1 \\\\ 1 & 1 & 2 \\end{pmatrix}$ について、以下の問いに答えよ。\n(1) 行列 $A$ の固有値とそれぞれの固有空間の基底をすべて求めよ。\n(2) 行列 $A$ を対角化する直交行列 $P$ と対角行列 $D$ を求めよ。\n(3) 自然数 $n$ に対して、$A^n$ を求めよ。",
+    "category": "線形代数",
+    "difficulty": "medium",
+    "thinking_process": "解析エラー",
+    "solution": "解析エラー",
+    "final_answer": "解析エラー",
+    "key_concepts": [],
+    "id": 2
+  },
+  {
+    "question": "閉区間 $[a,b]$ 上で定義された実数値関数 $f: [a,b] \\to \\mathbb{R}$ が連続であるとする。このとき、任意の $\\epsilon > 0$ に対して、ある $\\delta > 0$ が存在し、$|x-y| < \\delta$ を満たすすべての $x,y \\in [a,b]$ に対して $|f(x)-f(y)| < \\epsilon$ が成立することを示せ（すなわち、$f$ は一様連続であることを示せ）。この結果が、開区間 $(a,b)$ 上の連続関数に対しては一般には成立しないことを、具体例を挙げて説明せよ。",
+    "category": "解析学",
+    "difficulty": "hard",
+    "thinking_process": "解析エラー",
+    "solution": "解析エラー",
+    "final_answer": "解析エラー",
+    "key_concepts": [],
+    "id": 3
+  },
+  {
+    "question": "$G$ を群、$N$ を $G$ の正規部分群とする。自然な写像 $\\pi: G \\to G/N$ を $\\pi(g) = gN$ で定義する。このとき、以下の問いに答えよ。\n(1) $\\pi$ が群準同型写像であることを示せ。\n(2) $\\pi$ の核 $\\text{Ker}(\\pi)$ と像 $\\text{Im}(\\pi)$ をそれぞれ求めよ。\n(3) 群準同型定理を述べ、その証明の概略を与えよ。",
+    "category": "代数学",
+    "difficulty": "medium",
+    "thinking_process": "解析エラー",
+    "solution": "解析エラー",
+    "final_answer": "解析エラー",
+    "key_concepts": [],
+    "id": 4
+  },
+  {
+    "question": "確率変数 $X$ が標準正規分布 $N(0,1)$ に従うとする。すなわち、その確率密度関数は $f_X(x) = \\frac{1}{\\sqrt{2\\pi}} e^{-x^2/2}$ である。このとき、以下の問いに答えよ。\n(1) $Y = e^X$ で定義される確率変数 $Y$ の確率密度関数 $f_Y(y)$ を求めよ。\n(2) $Y$ の期待値 $E[Y]$ を計算せよ。\n(3) $Y$ の分散 $Var[Y]$ を計算せよ。",
+    "category": "確率論",
+    "difficulty": "medium",
+    "thinking_process": "解析エラー",
+    "solution": "解析エラー",
+    "final_answer": "解析エラー",
+    "key_concepts": [],
+    "id": 5
+  }
+]

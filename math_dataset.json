@@ -1,0 +1,1370 @@
+[
+  {
+    "question": "x² + -6x + 8 = 0の解は？",
+    "answer": "x = 2, 4",
+    "difficulty": "hard",
+    "category": "algebra"
+  },
+  {
+    "question": "18 ÷ 2 = ?",
+    "answer": "9",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "8 + 95 = ?",
+    "answer": "103",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "x² + -6x + 9 = 0の解は？",
+    "answer": "x = 3",
+    "difficulty": "hard",
+    "category": "algebra"
+  },
+  {
+    "question": "105 ÷ 15 = ?",
+    "answer": "7",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "24 ÷ 4 = ?",
+    "answer": "6",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "幅8cm、高さ4cmの長方形の面積は？",
+    "answer": "32cm²",
+    "difficulty": "medium",
+    "category": "geometry"
+  },
+  {
+    "question": "15 × 7 = ?",
+    "answer": "105",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "240 ÷ 16 = ?",
+    "answer": "15",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "底辺11cm、高さ9cmの三角形の面積は？",
+    "answer": "49.5cm²",
+    "difficulty": "medium",
+    "category": "geometry"
+  },
+  {
+    "question": "4 × 9 = ?",
+    "answer": "36",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "7 × 17 = ?",
+    "answer": "119",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "3x + 4 = 19のとき、xの値は？",
+    "answer": "5",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "4x + 1 = 25のとき、xの値は？",
+    "answer": "6",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "x² + -2x + 1 = 0の解は？",
+    "answer": "x = 1",
+    "difficulty": "hard",
+    "category": "algebra"
+  },
+  {
+    "question": "9x + 17 = 125のとき、xの値は？",
+    "answer": "12",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "8x + 9 = 97のとき、xの値は？",
+    "answer": "11",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "16 × 13 = ?",
+    "answer": "208",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "94 + 83 = ?",
+    "answer": "177",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "半径7cmの円の面積は？（π=3.14として計算）",
+    "answer": "153.86cm²",
+    "difficulty": "medium",
+    "category": "geometry"
+  },
+  {
+    "question": "9x + 12 = 84のとき、xの値は？",
+    "answer": "8",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "10x + 9 = 49のとき、xの値は？",
+    "answer": "4",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "x² + -3x + 2 = 0の解は？",
+    "answer": "x = 2, 1",
+    "difficulty": "hard",
+    "category": "algebra"
+  },
+  {
+    "question": "9x + 14 = 104のとき、xの値は？",
+    "answer": "10",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "幅15cm、高さ12cmの長方形の面積は？",
+    "answer": "180cm²",
+    "difficulty": "medium",
+    "category": "geometry"
+  },
+  {
+    "question": "7x + 19 = 47のとき、xの値は？",
+    "answer": "4",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "2x + 8 = 26のとき、xの値は？",
+    "answer": "9",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "45 - 44 = ?",
+    "answer": "1",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "底辺7cm、高さ6cmの三角形の面積は？",
+    "answer": "21.0cm²",
+    "difficulty": "medium",
+    "category": "geometry"
+  },
+  {
+    "question": "2x + 4 = 28のとき、xの値は？",
+    "answer": "12",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "幅8cm、高さ13cmの長方形の面積は？",
+    "answer": "104cm²",
+    "difficulty": "medium",
+    "category": "geometry"
+  },
+  {
+    "question": "底辺10cm、高さ9cmの三角形の面積は？",
+    "answer": "45.0cm²",
+    "difficulty": "medium",
+    "category": "geometry"
+  },
+  {
+    "question": "2x + 24 = 36のとき、xの値は？",
+    "answer": "6",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "4x + 15 = 67のとき、xの値は？",
+    "answer": "13",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "8x + 25 = 33のとき、xの値は？",
+    "answer": "1",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "x² + -3x + 2 = 0の解は？",
+    "answer": "x = 1, 2",
+    "difficulty": "hard",
+    "category": "algebra"
+  },
+  {
+    "question": "7x + 5 = 75のとき、xの値は？",
+    "answer": "10",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "380 ÷ 20 = ?",
+    "answer": "19",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "幅6cm、高さ7cmの長方形の面積は？",
+    "answer": "42cm²",
+    "difficulty": "medium",
+    "category": "geometry"
+  },
+  {
+    "question": "83 + 5 = ?",
+    "answer": "88",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "10x + 21 = 111のとき、xの値は？",
+    "answer": "9",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "93 - 19 = ?",
+    "answer": "74",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "半径3cmの円の面積は？（π=3.14として計算）",
+    "answer": "28.259999999999998cm²",
+    "difficulty": "medium",
+    "category": "geometry"
+  },
+  {
+    "question": "238 ÷ 17 = ?",
+    "answer": "14",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "3x + 7 = 13のとき、xの値は？",
+    "answer": "2",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "256 ÷ 16 = ?",
+    "answer": "16",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "77 - 25 = ?",
+    "answer": "52",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "33 - 29 = ?",
+    "answer": "4",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "10x + 19 = 89のとき、xの値は？",
+    "answer": "7",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "花子さんは787円持っていました。ペンを395円で買いました。おつりはいくらですか？",
+    "answer": "392円",
+    "difficulty": "medium",
+    "category": "word_problem"
+  },
+  {
+    "question": "花子さんは1996円持っていました。ノートを748円で買いました。おつりはいくらですか？",
+    "answer": "1248円",
+    "difficulty": "medium",
+    "category": "word_problem"
+  },
+  {
+    "question": "4 × 12 = ?",
+    "answer": "48",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "65 - 21 = ?",
+    "answer": "44",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "55 + 66 = ?",
+    "answer": "121",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "13 × 18 = ?",
+    "answer": "234",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "半径4cmの円の面積は？（π=3.14として計算）",
+    "answer": "50.24cm²",
+    "difficulty": "medium",
+    "category": "geometry"
+  },
+  {
+    "question": "太郎くんは消しゴムを18個持っています。友達から5個もらいました。太郎くんが持っている消しゴムは全部で何個ですか？",
+    "answer": "23個",
+    "difficulty": "medium",
+    "category": "word_problem"
+  },
+  {
+    "question": "62 - 19 = ?",
+    "answer": "43",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "x² + -7x + 10 = 0の解は？",
+    "answer": "x = 5, 2",
+    "difficulty": "hard",
+    "category": "algebra"
+  },
+  {
+    "question": "花子さんは1425円持っていました。ジュースを1276円で買いました。おつりはいくらですか？",
+    "answer": "149円",
+    "difficulty": "medium",
+    "category": "word_problem"
+  },
+  {
+    "question": "69 - 42 = ?",
+    "answer": "27",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "51 - 34 = ?",
+    "answer": "17",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "底辺5cm、高さ4cmの三角形の面積は？",
+    "answer": "10.0cm²",
+    "difficulty": "medium",
+    "category": "geometry"
+  },
+  {
+    "question": "底辺13cm、高さ15cmの三角形の面積は？",
+    "answer": "97.5cm²",
+    "difficulty": "medium",
+    "category": "geometry"
+  },
+  {
+    "question": "18 × 18 = ?",
+    "answer": "324",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "6 + 79 = ?",
+    "answer": "85",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "5x + 1 = 56のとき、xの値は？",
+    "answer": "11",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "78 - 27 = ?",
+    "answer": "51",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "8x + 1 = 57のとき、xの値は？",
+    "answer": "7",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "150 ÷ 15 = ?",
+    "answer": "10",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "19 × 16 = ?",
+    "answer": "304",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "x² + -7x + 10 = 0の解は？",
+    "answer": "x = 2, 5",
+    "difficulty": "hard",
+    "category": "algebra"
+  },
+  {
+    "question": "花子さんは1971円持っていました。ペンを1397円で買いました。おつりはいくらですか？",
+    "answer": "574円",
+    "difficulty": "medium",
+    "category": "word_problem"
+  },
+  {
+    "question": "90 ÷ 10 = ?",
+    "answer": "9",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "幅7cm、高さ9cmの長方形の面積は？",
+    "answer": "63cm²",
+    "difficulty": "medium",
+    "category": "geometry"
+  },
+  {
+    "question": "7x + 9 = 30のとき、xの値は？",
+    "answer": "3",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "x² + -9x + 20 = 0の解は？",
+    "answer": "x = 4, 5",
+    "difficulty": "hard",
+    "category": "algebra"
+  },
+  {
+    "question": "ある数の3倍に5を足すと23になります。この数は何ですか？",
+    "answer": "6",
+    "difficulty": "medium",
+    "category": "llm_generated"
+  },
+  {
+    "question": "26 - 20 = ?",
+    "answer": "6",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "太郎くんはシールを10個持っています。友達から4個もらいました。太郎くんが持っているシールは全部で何個ですか？",
+    "answer": "14個",
+    "difficulty": "medium",
+    "category": "word_problem"
+  },
+  {
+    "question": "112 ÷ 8 = ?",
+    "answer": "14",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "8x + 28 = 100のとき、xの値は？",
+    "answer": "9",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "61 + 6 = ?",
+    "answer": "67",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "90 + 30 = ?",
+    "answer": "120",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "半径8cmの円の面積は？（π=3.14として計算）",
+    "answer": "200.96cm²",
+    "difficulty": "medium",
+    "category": "geometry"
+  },
+  {
+    "question": "6 × 15 = ?",
+    "answer": "90",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "45 + 2 = ?",
+    "answer": "47",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "50人のクラスで、男子は女子より8人多いです。男子と女子はそれぞれ何人ですか？",
+    "answer": "男子29人、女子21人",
+    "difficulty": "hard",
+    "category": "llm_generated"
+  },
+  {
+    "question": "4x + 29 = 53のとき、xの値は？",
+    "answer": "6",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "x² + -8x + 15 = 0の解は？",
+    "answer": "x = 3, 5",
+    "difficulty": "hard",
+    "category": "algebra"
+  },
+  {
+    "question": "花子さんは846円持っていました。ジュースを545円で買いました。おつりはいくらですか？",
+    "answer": "301円",
+    "difficulty": "medium",
+    "category": "word_problem"
+  },
+  {
+    "question": "95 + 36 = ?",
+    "answer": "131",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "花子さんは1478円持っていました。ノートを859円で買いました。おつりはいくらですか？",
+    "answer": "619円",
+    "difficulty": "medium",
+    "category": "word_problem"
+  },
+  {
+    "question": "26 + 11 = ?",
+    "answer": "37",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "61 + 82 = ?",
+    "answer": "143",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "8 × 5 = ?",
+    "answer": "40",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "55 - 32 = ?",
+    "answer": "23",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "半径3cmの円の面積は？（π=3.14として計算）",
+    "answer": "28.259999999999998cm²",
+    "difficulty": "medium",
+    "category": "geometry"
+  },
+  {
+    "question": "8x + 7 = 127のとき、xの値は？",
+    "answer": "15",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "18 × 3 = ?",
+    "answer": "54",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "9 × 12 = ?",
+    "answer": "108",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "花子さんは1624円持っていました。ジュースを735円で買いました。おつりはいくらですか？",
+    "answer": "889円",
+    "difficulty": "medium",
+    "category": "word_problem"
+  },
+  {
+    "question": "5x + 3 = 88のとき、xの値は？",
+    "answer": "17",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "20 + 96 = ?",
+    "answer": "116",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "x² + -10x + 25 = 0の解は？",
+    "answer": "x = 5",
+    "difficulty": "hard",
+    "category": "algebra"
+  },
+  {
+    "question": "8x + 9 = 57のとき、xの値は？",
+    "answer": "6",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "24 + 74 = ?",
+    "answer": "98",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "花子さんは769円持っていました。ノートを118円で買いました。おつりはいくらですか？",
+    "answer": "651円",
+    "difficulty": "medium",
+    "category": "word_problem"
+  },
+  {
+    "question": "59 + 69 = ?",
+    "answer": "128",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "13 × 13 = ?",
+    "answer": "169",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "12 × 1 = ?",
+    "answer": "12",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "底辺19cm、高さ9cmの三角形の面積は？",
+    "answer": "85.5cm²",
+    "difficulty": "medium",
+    "category": "geometry"
+  },
+  {
+    "question": "花子さんは1165円持っていました。ノートを201円で買いました。おつりはいくらですか？",
+    "answer": "964円",
+    "difficulty": "medium",
+    "category": "word_problem"
+  },
+  {
+    "question": "10 × 3 = ?",
+    "answer": "30",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "x² + -9x + 20 = 0の解は？",
+    "answer": "x = 4, 5",
+    "difficulty": "hard",
+    "category": "algebra"
+  },
+  {
+    "question": "8x + 1 = 9のとき、xの値は？",
+    "answer": "1",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "太郎くんはみかんを14個持っています。友達から11個もらいました。太郎くんが持っているみかんは全部で何個ですか？",
+    "answer": "25個",
+    "difficulty": "medium",
+    "category": "word_problem"
+  },
+  {
+    "question": "10 × 9 = ?",
+    "answer": "90",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "57 + 3 = ?",
+    "answer": "60",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "84 + 3 = ?",
+    "answer": "87",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "半径2cmの円の面積は？（π=3.14として計算）",
+    "answer": "12.56cm²",
+    "difficulty": "medium",
+    "category": "geometry"
+  },
+  {
+    "question": "x² + -5x + 4 = 0の解は？",
+    "answer": "x = 1, 4",
+    "difficulty": "hard",
+    "category": "algebra"
+  },
+  {
+    "question": "14 × 11 = ?",
+    "answer": "154",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "半径4cmの円の面積は？（π=3.14として計算）",
+    "answer": "50.24cm²",
+    "difficulty": "medium",
+    "category": "geometry"
+  },
+  {
+    "question": "太郎くんはみかんを17個持っています。友達から9個もらいました。太郎くんが持っているみかんは全部で何個ですか？",
+    "answer": "26個",
+    "difficulty": "medium",
+    "category": "word_problem"
+  },
+  {
+    "question": "4x + 11 = 63のとき、xの値は？",
+    "answer": "13",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "36 ÷ 12 = ?",
+    "answer": "3",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "68 ÷ 17 = ?",
+    "answer": "4",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "18 × 5 = ?",
+    "answer": "90",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "83 - 46 = ?",
+    "answer": "37",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "x² + -6x + 8 = 0の解は？",
+    "answer": "x = 4, 2",
+    "difficulty": "hard",
+    "category": "algebra"
+  },
+  {
+    "question": "16 × 3 = ?",
+    "answer": "48",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "90 ÷ 6 = ?",
+    "answer": "15",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "13 - 12 = ?",
+    "answer": "1",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "3x + 18 = 57のとき、xの値は？",
+    "answer": "13",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "幅13cm、高さ12cmの長方形の面積は？",
+    "answer": "156cm²",
+    "difficulty": "medium",
+    "category": "geometry"
+  },
+  {
+    "question": "幅7cm、高さ3cmの長方形の面積は？",
+    "answer": "21cm²",
+    "difficulty": "medium",
+    "category": "geometry"
+  },
+  {
+    "question": "7x + 29 = 148のとき、xの値は？",
+    "answer": "17",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "7x + 1 = 106のとき、xの値は？",
+    "answer": "15",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "10x + 27 = 197のとき、xの値は？",
+    "answer": "17",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "37 - 19 = ?",
+    "answer": "18",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "32 + 1 = ?",
+    "answer": "33",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "9x + 5 = 86のとき、xの値は？",
+    "answer": "9",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "半径6cmの円の面積は？（π=3.14として計算）",
+    "answer": "113.03999999999999cm²",
+    "difficulty": "medium",
+    "category": "geometry"
+  },
+  {
+    "question": "50 - 27 = ?",
+    "answer": "23",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "6x + 21 = 129のとき、xの値は？",
+    "answer": "18",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "8x + 2 = 10のとき、xの値は？",
+    "answer": "1",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "5x + 24 = 79のとき、xの値は？",
+    "answer": "11",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "37 + 15 = ?",
+    "answer": "52",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "18 - 2 = ?",
+    "answer": "16",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "x² + -5x + 4 = 0の解は？",
+    "answer": "x = 1, 4",
+    "difficulty": "hard",
+    "category": "algebra"
+  },
+  {
+    "question": "6x + 25 = 85のとき、xの値は？",
+    "answer": "10",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "5 × 15 = ?",
+    "answer": "75",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "10 × 17 = ?",
+    "answer": "170",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "半径5cmの円の面積は？（π=3.14として計算）",
+    "answer": "78.5cm²",
+    "difficulty": "medium",
+    "category": "geometry"
+  },
+  {
+    "question": "4x + 6 = 58のとき、xの値は？",
+    "answer": "13",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "2x + 23 = 53のとき、xの値は？",
+    "answer": "15",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "x² + -9x + 20 = 0の解は？",
+    "answer": "x = 4, 5",
+    "difficulty": "hard",
+    "category": "algebra"
+  },
+  {
+    "question": "半径6cmの円の面積は？（π=3.14として計算）",
+    "answer": "113.03999999999999cm²",
+    "difficulty": "medium",
+    "category": "geometry"
+  },
+  {
+    "question": "41 - 19 = ?",
+    "answer": "22",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "幅6cm、高さ14cmの長方形の面積は？",
+    "answer": "84cm²",
+    "difficulty": "medium",
+    "category": "geometry"
+  },
+  {
+    "question": "x² + -5x + 6 = 0の解は？",
+    "answer": "x = 2, 3",
+    "difficulty": "hard",
+    "category": "algebra"
+  },
+  {
+    "question": "88 + 74 = ?",
+    "answer": "162",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "3x + 4 = 49のとき、xの値は？",
+    "answer": "15",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "68 ÷ 17 = ?",
+    "answer": "4",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "幅12cm、高さ4cmの長方形の面積は？",
+    "answer": "48cm²",
+    "difficulty": "medium",
+    "category": "geometry"
+  },
+  {
+    "question": "360 ÷ 18 = ?",
+    "answer": "20",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "4x + 29 = 57のとき、xの値は？",
+    "answer": "7",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "68 ÷ 17 = ?",
+    "answer": "4",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "40 ÷ 2 = ?",
+    "answer": "20",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "x² + -2x + 1 = 0の解は？",
+    "answer": "x = 1",
+    "difficulty": "hard",
+    "category": "algebra"
+  },
+  {
+    "question": "43 - 37 = ?",
+    "answer": "6",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "底辺19cm、高さ6cmの三角形の面積は？",
+    "answer": "57.0cm²",
+    "difficulty": "medium",
+    "category": "geometry"
+  },
+  {
+    "question": "72 - 39 = ?",
+    "answer": "33",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "10x + 2 = 192のとき、xの値は？",
+    "answer": "19",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "4x + 15 = 27のとき、xの値は？",
+    "answer": "3",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "x² + -6x + 9 = 0の解は？",
+    "answer": "x = 3",
+    "difficulty": "hard",
+    "category": "algebra"
+  },
+  {
+    "question": "x² + -8x + 15 = 0の解は？",
+    "answer": "x = 3, 5",
+    "difficulty": "hard",
+    "category": "algebra"
+  },
+  {
+    "question": "62 + 36 = ?",
+    "answer": "98",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "17 × 17 = ?",
+    "answer": "289",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "40 - 38 = ?",
+    "answer": "2",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "2x + 29 = 37のとき、xの値は？",
+    "answer": "4",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "5 × 1 = ?",
+    "answer": "5",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "x² + -3x + 2 = 0の解は？",
+    "answer": "x = 2, 1",
+    "difficulty": "hard",
+    "category": "algebra"
+  },
+  {
+    "question": "x² + -5x + 4 = 0の解は？",
+    "answer": "x = 1, 4",
+    "difficulty": "hard",
+    "category": "algebra"
+  },
+  {
+    "question": "40 + 3 = ?",
+    "answer": "43",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "45 - 38 = ?",
+    "answer": "7",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "57 + 74 = ?",
+    "answer": "131",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "x² + -6x + 5 = 0の解は？",
+    "answer": "x = 1, 5",
+    "difficulty": "hard",
+    "category": "algebra"
+  },
+  {
+    "question": "2x + 30 = 54のとき、xの値は？",
+    "answer": "12",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "10 × 19 = ?",
+    "answer": "190",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "3x + 3 = 9のとき、xの値は？",
+    "answer": "2",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "x² + -5x + 4 = 0の解は？",
+    "answer": "x = 1, 4",
+    "difficulty": "hard",
+    "category": "algebra"
+  },
+  {
+    "question": "220 ÷ 20 = ?",
+    "answer": "11",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "幅12cm、高さ4cmの長方形の面積は？",
+    "answer": "48cm²",
+    "difficulty": "medium",
+    "category": "geometry"
+  },
+  {
+    "question": "14 × 15 = ?",
+    "answer": "210",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "4 × 13 = ?",
+    "answer": "52",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "66 + 1 = ?",
+    "answer": "67",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "60 + 17 = ?",
+    "answer": "77",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "太郎くんはシールを17個持っています。友達から8個もらいました。太郎くんが持っているシールは全部で何個ですか？",
+    "answer": "25個",
+    "difficulty": "medium",
+    "category": "word_problem"
+  },
+  {
+    "question": "太郎くんはみかんを14個持っています。友達から13個もらいました。太郎くんが持っているみかんは全部で何個ですか？",
+    "answer": "27個",
+    "difficulty": "medium",
+    "category": "word_problem"
+  },
+  {
+    "question": "20 ÷ 4 = ?",
+    "answer": "5",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "57 + 62 = ?",
+    "answer": "119",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "96 ÷ 8 = ?",
+    "answer": "12",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "x² + -6x + 8 = 0の解は？",
+    "answer": "x = 2, 4",
+    "difficulty": "hard",
+    "category": "algebra"
+  },
+  {
+    "question": "9x + 9 = 81のとき、xの値は？",
+    "answer": "8",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "110 ÷ 10 = ?",
+    "answer": "11",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "x² + -2x + 1 = 0の解は？",
+    "answer": "x = 1",
+    "difficulty": "hard",
+    "category": "algebra"
+  },
+  {
+    "question": "19 + 77 = ?",
+    "answer": "96",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "14 + 61 = ?",
+    "answer": "75",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "4x + 14 = 34のとき、xの値は？",
+    "answer": "5",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "9x + 26 = 134のとき、xの値は？",
+    "answer": "12",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "太郎くんは消しゴムを16個持っています。友達から3個もらいました。太郎くんが持っている消しゴムは全部で何個ですか？",
+    "answer": "19個",
+    "difficulty": "medium",
+    "category": "word_problem"
+  },
+  {
+    "question": "底辺17cm、高さ13cmの三角形の面積は？",
+    "answer": "110.5cm²",
+    "difficulty": "medium",
+    "category": "geometry"
+  },
+  {
+    "question": "30 ÷ 2 = ?",
+    "answer": "15",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "花子さんは1416円持っていました。ノートを875円で買いました。おつりはいくらですか？",
+    "answer": "541円",
+    "difficulty": "medium",
+    "category": "word_problem"
+  },
+  {
+    "question": "時速60kmで走る車が3時間走ったとき、何km進みますか？",
+    "answer": "180km",
+    "difficulty": "easy",
+    "category": "llm_generated"
+  },
+  {
+    "question": "9 × 19 = ?",
+    "answer": "171",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "81 - 19 = ?",
+    "answer": "62",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "底辺10cm、高さ12cmの三角形の面積は？",
+    "answer": "60.0cm²",
+    "difficulty": "medium",
+    "category": "geometry"
+  },
+  {
+    "question": "75 - 46 = ?",
+    "answer": "29",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "幅15cm、高さ7cmの長方形の面積は？",
+    "answer": "105cm²",
+    "difficulty": "medium",
+    "category": "geometry"
+  },
+  {
+    "question": "5x + 11 = 111のとき、xの値は？",
+    "answer": "20",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "太郎くんはりんごを7個持っています。友達から14個もらいました。太郎くんが持っているりんごは全部で何個ですか？",
+    "answer": "21個",
+    "difficulty": "medium",
+    "category": "word_problem"
+  },
+  {
+    "question": "花子さんは1059円持っていました。ノートを693円で買いました。おつりはいくらですか？",
+    "answer": "366円",
+    "difficulty": "medium",
+    "category": "word_problem"
+  },
+  {
+    "question": "3x + 7 = 61のとき、xの値は？",
+    "answer": "18",
+    "difficulty": "medium",
+    "category": "algebra"
+  },
+  {
+    "question": "70 + 32 = ?",
+    "answer": "102",
+    "difficulty": "easy",
+    "category": "arithmetic"
+  },
+  {
+    "question": "太郎くんは鉛筆を6個持っています。友達から8個もらいました。太郎くんが持っている鉛筆は全部で何個ですか？",
+    "answer": "14個",
+    "difficulty": "medium",
+    "category": "word_problem"
+  }
+]
