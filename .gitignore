@@ -8,3 +8,11 @@ wheels/
 .env
 # Virtual environments
 .venv
+config/
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+# Logs
+*.log
+# Temporary files
+*.tmp
+*.temps
